@@ -6,6 +6,7 @@
 #main{
     width: auto;
     height: 100%;
+    font-size: 90%;
 }
 
 #header{
@@ -19,10 +20,9 @@
     justify-content: center;
     flex-direction: column;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    min-height: fit-content;
-    height: 150px;
-    font-size: 15px;
-    padding: 10px;
+    max-height: fit-content;;
+    padding: 15px;
+    font-size: 90%;
 }
 
 #content{
@@ -38,7 +38,7 @@
     z-index: 0;
     padding: 20px;
     height: 80%;
-    top: 150px;
+    top: 155px;
 }
 #footer{
     color: white;
@@ -48,7 +48,7 @@
     font-family: "DM Serif Display", serif;
     background-color: rgb(97, 0, 0);
     position: relative;
-    top: 150px;
+    top: 155px;
     height: 150px
 }
 
