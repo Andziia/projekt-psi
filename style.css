@@ -22,7 +22,6 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     max-height: fit-content;;
     padding: 15px;
-    font-size: 90%;
 }
 
 #content{
@@ -36,7 +35,7 @@
     justify-content: center;
     flex-grow: 1;
     z-index: 0;
-    padding: 20px;
+    padding: 60px 20px;
     height: 80%;
     top: 155px;
 }
