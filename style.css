@@ -108,12 +108,12 @@ article#img{
 }
 
 article#przerwa{
-    width: 100%;
     flex: 100%;
     background-image: url(img/przerwa.jpg);
     background-size: contain;
     height: 90px;
-
+    background-position: center;
+    background-attachment:scroll;
 }
 
 img{
