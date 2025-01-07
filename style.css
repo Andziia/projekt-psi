@@ -47,7 +47,7 @@
     background-color: rgb(97, 0, 0);
     position: relative;
     top: 155px;
-    height: fit-content;
+    max-height: fit-content;
 }
 
 hr{
