@@ -19,7 +19,7 @@
     align-items: center;
     flex-direction: column;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    max-height: fit-content;;
+    max-height: fit-content;
     padding: 15px;
 }
 
