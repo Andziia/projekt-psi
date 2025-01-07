@@ -5,7 +5,7 @@
 
 #main{
     width: auto;
-    height: 100%;
+    height: fit-content;
     font-size: 90%;
 }
 
